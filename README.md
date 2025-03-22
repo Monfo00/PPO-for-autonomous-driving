@@ -15,7 +15,7 @@ The repository is organized as follows:
   - **PPO-trained network weights** are saved in h5 format.  
   - **Pre-trained DRQN weights** are provided in their original TensorFlow format, including the corresponding index files.
 
-# Methodology Scheme
+# Methodological Scheme
 ![Methodology Scheme](methodology_scheme.png)
 
 # Demo
