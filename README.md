@@ -19,7 +19,8 @@ The repository is organized as follows:
 ![Methodology Scheme](methodology_scheme.png)
 
 # Demo
-https://github.com/user-attachments/assets/15e02022-3c91-45aa-b5e1-05e6ae12f5c3
+https://github.com/user-attachments/assets/be992d5c-8f7b-46e4-bc0a-4f8f62eb53ad
+
 
 
 
