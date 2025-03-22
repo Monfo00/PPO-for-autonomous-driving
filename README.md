@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/be992d5c-8f7b-46e4-bc0a-4f8f62eb53ad
 # References
 
 - **Proximal Policy Optimization (PPO)**: Schulman et al., *Proximal Policy Optimization Algorithms*, 2017. 
-- **Deep Recurrent Q-Network (DRQN)**: Zangirolami, V. and M. Borrotti, 2024. *Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning*, *Knowledge-Based Systems*, 293.  
+- **Deep Recurrent Q-Network (DRQN)**: Zangirolami, V. and M. Borrotti, 2024. *Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning*, *Knowledge-Based Systems*, 293. (https://github.com/ValentinaZangirolami/DRL)  
 - **AirSim Simulator**: Microsoft's AirSim, an open-source simulator for autonomous vehicles. (https://github.com/microsoft/AirSim)  
 - **DeepMind CNN Original Architecture**: Mnih et al., *Human-level control through deep reinforcement learning*, *Nature*, 2015.
 
