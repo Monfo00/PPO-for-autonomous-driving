@@ -19,7 +19,9 @@ The repository is organized as follows:
 ![Methodology Scheme](methodology_scheme.png)
 
 # Demo
-[Watch the demo video](./TEST_PPO.mp4)
+https://github.com/user-attachments/assets/15e02022-3c91-45aa-b5e1-05e6ae12f5c3
+
+
 
 
 
