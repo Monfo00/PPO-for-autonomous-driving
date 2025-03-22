@@ -19,7 +19,7 @@ The repository is organized as follows:
 ![Methodology Scheme](methodology_scheme.png)
 
 # Demo
-<video src="TEST_PPO.mp4" controls width="600"></video>
+[Watch the demo video](./TEST_PPO.mp4)
 
 
 
