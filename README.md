@@ -10,7 +10,7 @@ To overcome this issue, a feature extraction approach based on transfer learning
 
 The repository is organized as follows:  
 
-- **PPO/**: Contains the core code for the Proximal Policy Optimization (**PPO_FE**), the simulation environment management (including the reward calculation function in **AirSimEnv**), and a CSV file (**final_reward_points**) used for computing rewards.  
+- **PPO/**: Contains the code for the Proximal Policy Optimization (**PPO_FE**), the simulation environment management (including the reward calculation function in **AirSimEnv**), and a CSV file (**final_reward_points**) used for computing rewards.  
 - **Weights/**: Store the trained model weights:  
   - **PPO-trained network weights** are saved in h5 format.  
   - **Pre-trained DRQN weights** are provided in their original TensorFlow format, including the corresponding index files.
