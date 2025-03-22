@@ -4,7 +4,7 @@ This project presents the implementation of a reinforcement learning algorithm f
 
 During training, challenges related to learning stability and lack of performance improvements emerged, requiring modifications to both the neural network architecture and the training strategy. In particular, the classical convolutional neural network (CNN), similar to the one originally developed by Google DeepMind for DRL tasks, struggled to learn effectively due to low gradient magnitudes.
 
-To overcome this issue, a feature extraction approach based on transfer learning was adopted. A pre-trained convolutional network, previously trained on a similar task using the Deep Recurrent Q-Network (DRQN) algorithm developed by V. Zangirolami et al., was leveraged to exploit prior knowledge and obtain more meaningful representations of input images. This strategy significantly improved driving performance during testing, confirming the effectiveness of the proposed methodology.
+To overcome this issue, a feature extraction approach based on transfer learning was adopted. A pre-trained convolutional neural network, previously trained on a similar task using the Deep Recurrent Q-Network (DRQN) algorithm developed by V. Zangirolami et al., was leveraged for feature extraction. This allowed for the exploitation of prior knowledge and the acquisition of more meaningful representations of input images. This strategy significantly improved driving performance during testing.
 
 # Repository Structure  
 
