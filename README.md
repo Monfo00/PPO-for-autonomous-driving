@@ -16,7 +16,8 @@ The repository is organized as follows:
   - **Pre-trained DRQN weights** are provided in their original TensorFlow format, including the corresponding index files.
 
 ## Methodological Scheme
-![Methodology Scheme](methodology_scheme.png)
+![methodology_scheme](https://github.com/user-attachments/assets/4ee9b467-e567-45ba-b908-2042e54ec448)
+
 
 ## Demo
 https://github.com/user-attachments/assets/be992d5c-8f7b-46e4-bc0a-4f8f62eb53ad
