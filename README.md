@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/be992d5c-8f7b-46e4-bc0a-4f8f62eb53ad
 - **DeepMind CNN Original Architecture**: Mnih et al., *Human-level control through deep reinforcement learning*, *Nature*, 2015.
 
 ## Acknowledgements
-I would like to thank Prof. M. Borrotti and Dr. V. Zangirolami for their support throughout this project. I also appreciate the University of Milano-Bicocca for providing the virtual machine that made this experiment possible.
+I would like to thank Prof. M. Borrotti and Dott.ssa V. Zangirolami for their support throughout this project. I also appreciate the University of Milano-Bicocca for providing the virtual machine that made this experiment possible.
